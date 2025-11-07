@@ -131,8 +131,8 @@ export default defineNuxtConfig({
 
     repository: {
       provider: 'github',
-      owner: 'HugoRCD',
-      repo: 'canvas',
+      owner: 'langochungdev',
+      repo: 'my-portfolio-nuxt',
       branch: 'main',
     },
   },
